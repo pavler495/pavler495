@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hey, hey 
+#### I'm Denis Pavlov 👋
+
+- I'm currently working as a back-end Java developer with some front skills in JS+React+Redux
+- My current stack is:
+  - Java
+  - Spring Framework
+  - Hibernate
+  - Vaadin
+  - Swagger
+  - MySQL/PostgreSQL
+- How to reach me:  
+![Twitter Follow](https://img.shields.io/twitter/follow/epicoder?style=social)
+![GitHub followers](https://img.shields.io/github/followers/pavler495?style=social)
 
 <!--
 **pavler495/pavler495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Pavler's github stats](https://github-readme-stats.vercel.app/api?username=pavler495&show_icons=true&hide=stars,issues,contribs)](https://github.com/pavler495/github-readme-stats)
