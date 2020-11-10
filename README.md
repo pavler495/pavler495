@@ -2,14 +2,27 @@
 #### I'm Denis Pavlov 👋
 
 - I'm currently working as a back-end Java developer with some front skills in JS+React+Redux
+
 - My current stack is:
-  - Java
-  - Spring Framework
-  - Hibernate
-  - Vaadin
-  - Swagger
-  - MySQL/PostgreSQL
-- How to reach me:  
+   - Java
+   - Spring Framework
+   - Hibernate
+   - Vaadin
+   - Swagger
+   - MySQL/PostgreSQL
+  
+ - My previous stack was:
+   - Javascript
+   - React
+   - Redux
+   - Node.JS
+   - Express
+   - Tailwind
+   - NoSQL
+   - Python
+   - C/C++
+  
+- My social life:  
 ![Twitter Follow](https://img.shields.io/twitter/follow/epicoder?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/pavler495?style=social)
 
@@ -28,4 +41,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Pavler's github stats](https://github-readme-stats.vercel.app/api?username=pavler495&show_icons=true&hide=stars,issues,contribs)](https://github.com/pavler495/github-readme-stats)
+[![Pavler's github stats](https://github-readme-stats.vercel.app/api?username=pavler495&show_icons=true&hide=stars,issues,contribs)](https://github.com/pavler495/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavler495&layout=compact)](https://github.com/pavler495/github-readme-stats)
