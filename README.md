@@ -11,7 +11,7 @@ I'm currently working as a back-end Java developer with some skills in front. Or
 - [x] Bootstrap/Tailwind
 - [x] Node/Express
 -->
-I speak :uk: , :ru: and a little bit :de:.  
+I speak eng , ru and a little bit de.  
 My social life:  
 ![Twitter Follow](https://img.shields.io/twitter/follow/epicoder?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/pavler495?style=social)
