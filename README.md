@@ -2,16 +2,6 @@
 #### My name is Denis Pavlov.
 I'm currently working as a back-end Java developer with some skills in front. 
 Originally from Moscow, Russia.  
-Stack:
-- [x] Java 
-- [x] Spring Framework
-- [x] Hibernate
-- [x] Swagger
-- [x] MySQL/PostgreSQL/MongoDB
-- [x] Vaadin
-- [x] Javascript/React/Redux
-- [x] Bootstrap/Tailwind
-- [x] Node/Express
 
 I speak eng , ru and a little bit de.  
 
